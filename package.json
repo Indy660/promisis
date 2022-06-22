@@ -2,7 +2,7 @@
   "name": "read_files",
   "version": "1.0.0",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "fs": "0.0.1-security",
     "path": "^0.12.7"
   },
